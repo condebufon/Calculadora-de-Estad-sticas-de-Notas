@@ -23,5 +23,5 @@ estudiante.
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@condebufon](https>//github.com/condebufon) - modificaciones e interpretaciones
-- [@dmalon](https>//github.com/DAVIDMALAGON23) - modificaciones e interpretaciones
+- [@condebufon]("https://github.com/condebufon") - modificaciones e interpretaciones
+- [@dmalon]("https://github.com/DAVIDMALAGON23") - modificaciones e interpretaciones
